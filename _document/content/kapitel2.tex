@@ -1,0 +1,110 @@
+% !TeX spellcheck = de_DE
+
+\chapter{Angebot}
+\label{chap:angebot}
+
+Die Gruppe des studentischen Projektes (Studienprojekt) – \profire hat nach Auswertung der Informationen, die die beiden Kundenbefragungen ergaben, ein Angebot mit diversen möglichen Extras erarbeitet.
+
+Die gegebenen Anforderungen begrenzen das Projekt insoweit, das wir die Nutzung folgender Hardware verworfen haben:
+\begin{description}
+	\item [Microsoft Kinect] --- nur 2m scharfes Tiefenbild
+	\item [Softkinect] --- schlechte Dokumentation des SDK, unpassende Programmiersprache
+	\item [Tiefenbildkamera der \meta] --- nur 50cm Tiefenbild
+	\item [Oculus Rift] --- Virtual Reality ist unpassend für die Anwendung
+\end{description}
+\bigbreak
+
+Verwendete Hardware:
+\begin{description}
+	\item [Optris  PI400] --- Wärmebildkamera
+	\item [Asus XtionPro Live] --- Tiefenbildkamera
+	\item [\meta Developer Kit] --- Augmented Reality Brille
+\end{description}
+\bigbreak
+
+Durch die Hardware sind wir an folgende Werkzeuge gebunden:
+\begin{description}
+	\item [C\# 5] --- Programmiersprache
+\end{description}
+\bigbreak
+
+Die \profire-Gruppe bietet folgendes Endprodukt an:
+
+\section{Halterung}
+Eine Spezialanfertigung einer Halterung für die Wärmebildkamera und die Tiefenbildkamera.
+Entscheidend hierfür ist dass die Abstände der beiden Kameras immer identisch ist, ansonsten würde das ausgegebene Bild verfälscht.
+Außerdem wird ermöglicht, dass die Bilder die später zur Bearbeitung und Anzeige dienen sollen den gleichen Bereich aufnehmen.
+Die Halterung soll  über ein Stativgewinde verfügen, sodass sie auf einer tragbaren Halterung (\zB \enquote{GoPro-Stick}) moniert werden kann.
+Dies ermöglicht die Führung mit der Hand um selbst den Blickwinkel der Kameras zu beeinflussen.
+Der Rücken der Halterung soll die Möglichkeit bieten ein Handy zu halten, welches dadurch nicht in einer separaten Hand getragen werden muss.
+
+Eine weitere Halterung soll eine Montage an einem Helm (nach Möglichkeit, einem echtem Feuerwehrhelm) zulassen.
+Dies hat den Vorteil das der User beide Hände frei hat.
+Nachteil wäre, dass der Bildbereich der Kameras an den Blickwinkel des Benutzers gebunden ist und die zusätzliche Halterung zusätzliches Gewicht der Kamera bedeutet.
+
+\section{Software und Ausgabe}
+Die Software wird als C\# Programm realisiert und soll das Tiefenbild und Wärmebild überlappen.
+Wir haben uns für C\# entschieden, da der Großteil der Gruppe bisher nur mit objektorientieren Programmiersprachen Erfahrung hat, allerdings Java keine gute Alternative ist, da ein C Dialekt zum Ansprechen der Wärmebildkamera benötigt wird und wir eine geringe Reaktionszeit benötigen.
+
+Die Ränder und Konturen des Wärmebildes sollen mithilfe des Tiefenbildes nachgezeichnet werden um ein schärferes Gesamtbild zu erzeugen.
+Außerdem sollen die Blinden Flecken im Wärmebild durch die zusätzlichen Informationen aus dem Tiefenbild entfernt werden. Zusätzlich wird im Bildmittelpunkt ein Fadenkreuz mit Informationen wie Abstand zum Objekt, auf das das Fadenkreuz zeigt, oder dessen Temperatur angezeigt.
+
+Der Benutzer kann auswählen welches Bild angezeigt werden soll, da in verschiedenen Situationen nur das Wärmebild oder nur das Tiefenbild sinnvoll ist.
+Zur Auswahl stehen das Wärmebild, das Tiefenbild, das von der Software errechnete Wärmebild mit dem überlappten Tiefenbild und das RGB-Bild, welches von der Asus Xtion Pro aufgezeichnet wird.
+Das Bild soll standardmäßig auf der Augmented Reality Brille (\meta) angezeigt werden und der Benutzer kann auswählen ob er das Bild zusätzlich auf einem externen Bildschirm (\zB Tablet oder Handy) anzeigen will oder ausschließlich auf einem der Beiden.
+Außerdem soll das Bild auf der Brille komplett abschaltbar sein, sodass man die Brille nicht absetzen muss, sondern nur das Bild ausblenden kann.
+Eine weitere Ausgabe wird nicht realisiert, da sich der Kern der Aufgabe  auf die generierten Bilder beschränkt. 
+
+\subsection{Nice-to-have Featurers}
+Das Bild wird mithilfe des Tiefenbildes dreidimensional modelliert und kann auf einem 3D-Fähigen Ausgabegerät angezeigt werden.
+
+Außerdem wird eine Legende mit nützlichen Informationen am Rand des Bildes angezeigt.
+
+\section{Beschreibung des Aufbaus}
+Die Software soll auf einer Windows-Umgebung (Windows 7 oder neuer) auf einem Laptop laufen, an dem die Wärmebildkamera, die \meta und der Tiefenbildsensor per USB angeschlossen sind.
+Der Laptop befindet sich in einem Rucksack, den der User auf dem Rücken trägt.
+Da wir zur Zeit noch in der Testphase sind und es sich um einen Prototypen handelt, ist Rechenleistung relevant, die Minimierung von Gewicht und Volumen dennoch nicht.
+Dies ermöglicht die Anbindung einer drahtlosen Maus die wir als Fernbedienung für unser Programm nutzten wollen.
+
+\section{Evaluierung der Nützlichkeit}
+Um den tatsächlichen Nutzen des Prototypen zu testen, sind zwei User Studies geplant.
+Die erste Studie soll mit einer abgeschwächten Version des Produkts von Studenten getestet werden.
+Das erhaltene Feedback soll zur Verbesserung des Produkts genutzt werden.
+
+Die zweite Studie soll mit Personen, die bereits Erfahrung mit Wärmebildkameras haben (nach Möglichkeit Mitglieder der Feuerwehr / des THW), durchgeführt werden.
+Von ihnen wird das fertige Produkt beurteilt.
+
+\subsection{Nice-to-have Featurers}
+Die Bilder werden in einem Archiv abgespeichert.
+
+Die Bilder haben Metadaten.
+
+Das Programm braucht wenige Ressourcen und ist sogar auf Single-Board-Computern ausführbar ohne das es zu Abstürzen kommt.
+
+Die Software ist sowohl auf MacOs als auch auf Unix Distributionen lauffähig.
+
+
+\section{Meilensteine}
+\begin{center}
+	\begin{longtable}{| c | c | p{10cm} | c |}
+		\hline
+		Nr. & Meilenstein & Abzugebende Dokumente & Termin \\ \hline
+		
+		1 & Projektplan & Dokumente: Projektplan\newline \newline Code: ---\newline \newline Ausführbare Datei: ---\newline \newline Physisches Objekt: --- & 1.7.2015 \\ \hline
+		
+		2 & Spezifikation & Dokumente: Spezifikation / Anforderungsanalyse\newline \newline Code: ---\newline \newline Ausführbare Datei: ---\newline \newline Physisches Objekt: --- & 8.7.2015 \\ \hline
+		
+		3 & Entwurf & Dokumente: Entwurf / Design\newline \newline Code: ---\newline \newline Ausführbare Datei: ---\newline \newline Physisches Objekt: --- & 5.8.2015 \\ \hline
+		
+		4 & Implementierung & Dokumente: User Study mit Studenten\newline \newline Code: Alpha (Wärmebild und Tiefenbild alleine, Ausgabe nur auf dem Smartphone)\newline \newline Ausführbare Datei: Alpha (Wärmebild und Tiefenbild alleine, Ausgabe nur auf dem Smartphone)\newline \newline Physisches Objekt: Halterung für Kameras & 7.10.2015 \\ \hline
+		
+		5 & Implementierung & Dokumente: ---\newline \newline Code: Beta (Wärmebild mit Tiefenbild fusioniert, Ausgabemethoden wechseln, Ausgabe auf der AR Brille und Smartphone), Systemtest\newline \newline Ausführbare Datei: Beta (Wärmebild mit Tiefenbild fusioniert, Ausgabemethoden wechseln, Ausgabe auf der AR Brille und Smartphone)\newline \newline Physisches Objekt:  Halterung auch für Smartphone & 11.11.2015 \\ \hline
+		
+		6 & Release Candidate & Dokumente: User Study mit Feuerwehrleuten\newline \newline Code: ---\newline \newline Ausführbare Datei: ---\newline \newline Physisches Objekt: Helmhalterung & 20.1.2016 \\ \hline
+		
+		7 & Abnahme & Dokumente: Projektplan, Spezifikation, Entwurf, Kurze Installations- und Startanleitung, Lizenzen, falls erforderlich\newline \newline Code: Vollständiger, kompilierbarer Programmcode\newline \newline Ausführbare Datei: Ausführbares Programm\newline \newline Physisches Objekt: Halterungen, bereitgestellte Hardware & 31.3.2016 \\ \hline
+		
+		8 & Abschluss & --- &  April 2016 \\	
+		\hline
+	\end{longtable}
+\end{center}

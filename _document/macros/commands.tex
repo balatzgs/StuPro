@@ -1,0 +1,59 @@
+%wird fuer Tabellen benötigt (z.B. >{centering\RBS}p{2.5cm} erzeugt einen zentrierten 2,5cm breiten Absatz in einer Tabelle
+\newcommand{\RBS}{\let\\=\tabularnewline}
+
+%% typoraphisch richtige Abkürzungen
+\newcommand{\zB}[0]{zum Beispiel\xspace}
+\newcommand{\ca}[0]{circa\xspace}
+\newcommand{\bzw}[0]{beziehungsweise\xspace}
+\newcommand{\usw}[0]{usw.\xspace}
+\newcommand{\matr}[0]{Matrikelnummer\xspace}
+\newcommand{\email}[0]{E-Mail\xspace}
+\newcommand{\emails}[0]{E-Mails\xspace}
+\newcommand{\bspw}[0]{beispielsweise\xspace}
+\newcommand{\bzgl}[0]{bezüglich\xspace}
+\newcommand{\ggf}[0]{gegebenenfalls\xspace}
+\newcommand{\setup}[0]{Set-Up\xspace}
+\renewcommand{\dh}[0]{das heißt\xspace}
+\newcommand{\Dh}[0]{Das heißt\xspace}
+\newcommand{\va}[0]{vor allem\xspace}
+\newcommand{\ea}[0]{et~al.\xspace}
+\newcommand{\meta}[0]{Meta~1\xspace}
+\newcommand{\profire}[0]{\enquote{\textbf{ProFire}}\xspace}
+
+%from hmks makros.tex - \indexify
+\newcommand{\toindex}[1]{\index{#1}#1}
+%
+\newcommand{\dotcup}{\ensuremath{\,\mathaccent\cdot\cup\,}} %Tipp aus The Comprehensive LaTeX Symbol List
+%
+%Anstatt $|x|$ $\abs{x}$ verwenden. Die Betragsstriche skalieren automatisch, falls "x" etwas größer sein sollte...
+\newcommand{\abs}[1]{\left\lvert#1\right\rvert}
+%
+%für Zitate
+\newcommand{\citeS}[2]{\cite[S.~#1]{#2}}
+\newcommand{\citeSf}[2]{\cite[S.~#1\,f.]{#2}}
+\newcommand{\citeSff}[2]{\cite[S.~#1\,ff.]{#2}}
+\newcommand{\vgl}{vergleiche\ }
+\newcommand{\Vgl}{Vergleiche\ }
+%
+\newcommand{\commentchar}{\ensuremath{/\mkern-4mu/}}
+\algrenewcommand{\algorithmiccomment}[1]{\hfill $\commentchar$ #1}
+
+% Seitengrößen - Gegen Schusterjungen und Hurenkinder...
+\newcommand{\largepage}{\enlargethispage{\baselineskip}}
+\newcommand{\shortpage}{\enlargethispage{-\baselineskip}}
+
+\newcommand{\goal}[0]{Ziel}
+\newcommand{\precondition}[0]{Vorbedingung}
+\newcommand{\postcondition}[0]{Nachbedingung}
+\newcommand{\postexception}[0]{Nachbedingung im Sonderfall}
+\newcommand{\flow}[0]{Regulärer Ablauf}
+\newcommand{\exception}[0]{Sonderfall}
+\newcommand{\player}[0]{Akteure}
+
+\newcommand{\term}[0]{Begriff, Synonyme}
+\newcommand{\intent}[0]{Bedeutung}
+\newcommand{\bound}[0]{Abgrenzung}
+\newcommand{\validity}[0]{Gültigkeit}
+\newcommand{\identifier}[0]{Bezeichnung}
+\newcommand{\blur}[0]{Unklarheiten}
+\newcommand{\crossref}[0]{Querverweise}

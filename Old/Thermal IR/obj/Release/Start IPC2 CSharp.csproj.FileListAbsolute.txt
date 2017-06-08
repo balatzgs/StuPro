@@ -1,0 +1,9 @@
+C:\Stupro\ProFire\Thermal IR\bin\Release\Start IPC2 CSharp.exe.config
+C:\Stupro\ProFire\Thermal IR\bin\Release\Start IPC2 CSharp.exe
+C:\Stupro\ProFire\Thermal IR\bin\Release\Start IPC2 CSharp.pdb
+C:\Stupro\ProFire\Thermal IR\obj\Release\IPC2.FormMain.resources
+C:\Stupro\ProFire\Thermal IR\obj\Release\Start_IPC2_CSharp.Properties.Resources.resources
+C:\Stupro\ProFire\Thermal IR\obj\Release\Start IPC2 CSharp.csproj.GenerateResource.Cache
+C:\Stupro\ProFire\Thermal IR\obj\Release\Start IPC2 CSharp.exe
+C:\Stupro\ProFire\Thermal IR\obj\Release\Start IPC2 CSharp.pdb
+C:\Stupro\ProFire\Thermal IR\obj\Release\Start IPC2 CSharp.csprojResolveAssemblyReference.cache

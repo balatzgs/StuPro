@@ -1,0 +1,12 @@
+C:\Users\Kim\Desktop\StuPro\DepthCameraProject\DepthCameraProject\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Kim\Desktop\StuPro\DepthCameraProject\DepthCameraProject\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\Desktop\StuPro\DepthCameraProject\DepthCameraProject\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\Desktop\StuPro\DepthCameraProject\DepthCameraProject\bin\Debug\OpenNI.Net.dll
+C:\Users\Kim\Desktop\StuPro\DepthCameraProject\DepthCameraProject\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kim\Desktop\StuPro\DepthCameraProject\DepthCameraProject\obj\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\Desktop\StuPro\DepthCameraProject\DepthCameraProject\obj\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\Kim\Desktop\StuPro\DepthCameraProject\DepthCameraProject\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\Desktop\StuPro\DepthCameraProject\DepthCameraProject\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\Desktop\ProFireDemov0.0\DepthCameraProject\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Kim\Desktop\ProFireDemov0.0\DepthCameraProject\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\Desktop\ProFireDemov0.0\DepthCameraProject\obj\Debug\WindowsFormsApplication1.pdb

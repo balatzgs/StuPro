@@ -1,0 +1,83 @@
+
+-----------------------------------------------------------------------------------------------
+//Start (Mode1 = no image; Mode2 = Tiefenbild; Mode3 = Wärmebild; Mode4 = Fusion)
+Application start at: 24.02.2016 8:45:47 
+
+24.02.2016 8:45:47  Mode 1 (Idle) 
+24.02.2016 8:45:53  Mode 2 start
+24.02.2016 8:45:56  Mode 2 stop Duration:3,6338991
+24.02.2016 8:45:56  Mode 3 start
+24.02.2016 8:46:04  Mode 3 stop Duration:7,5089932
+24.02.2016 8:46:04  Mode 4 start
+24.02.2016 8:46:16  Mode 4 stop Duration:11,8868087
+24.02.2016 8:46:16  Mode 2 start
+24.02.2016 8:46:17  Mode 2 stop Duration:0,9626508
+24.02.2016 8:46:17  Mode 3 start
+24.02.2016 8:46:18  Mode 3 stop Duration:1,2358559
+24.02.2016 8:46:18  Mode 4 start
+24.02.2016 8:46:22  Mode 4 stop Duration:4,1078963
+24.02.2016 8:46:22  Mode 2 start
+24.02.2016 8:46:23  Mode 2 stop Duration:1,0437544
+24.02.2016 8:46:23  Mode 3 start
+24.02.2016 8:46:24  Mode 3 stop Duration:1,2579339
+24.02.2016 8:46:24  Mode 4 start
+24.02.2016 8:46:26  Mode 4 stop Duration:1,4379578
+24.02.2016 8:46:26  Mode 2 start
+
+Application close: 24.02.2016 8:46:28 
+//End
+
+//Eval:
+Total Duration in seconds:41
+Total Duration in minutes:0,68
+-----------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------
+//Start (Mode1 = no image; Mode2 = Tiefenbild; Mode3 = Wärmebild; Mode4 = Fusion)
+Application start at: 26.02.2016 3:34:59 
+
+26.02.2016 3:34:59  Mode 1 (Idle) 
+26.02.2016 3:35:00  Mode 2 start
+26.02.2016 3:35:01  Mode 2 stop Duration:1,2218265
+26.02.2016 3:35:01  Mode 3 start
+26.02.2016 3:35:02  Mode 3 stop Duration:0,8065351
+26.02.2016 3:35:02  Mode 4 start
+26.02.2016 3:35:03  Mode 4 stop Duration:0,8345978
+26.02.2016 3:35:03  Mode 2 start
+
+Application close: 26.02.2016 3:35:05 
+//End
+
+//Eval:
+Total Duration in seconds:6
+Total Duration in minutes:0,1
+-----------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------
+//Start (Mode1 = no image; Mode2 = Tiefenbild; Mode3 = Wärmebild; Mode4 = Fusion)
+Application start at: 26.02.2016 3:35:26 
+
+26.02.2016 3:35:26  Mode 1 (Idle) 
+26.02.2016 3:35:27  Mode 2 start
+26.02.2016 3:35:28  Mode 2 stop Duration:0,8837248
+26.02.2016 3:35:28  Mode 3 start
+26.02.2016 3:35:29  Mode 3 stop Duration:0,9226901
+26.02.2016 3:35:29  Mode 4 start
+26.02.2016 3:35:30  Mode 4 stop Duration:0,7645341
+26.02.2016 3:35:30  Mode 2 start
+26.02.2016 3:35:31  Mode 2 stop Duration:0,8537995
+26.02.2016 3:35:31  Mode 3 start
+26.02.2016 3:35:33  Mode 3 stop Duration:2,230557
+26.02.2016 3:35:33  Mode 4 start
+26.02.2016 3:35:34  Mode 4 stop Duration:0,731484
+26.02.2016 3:35:34  Mode 2 start
+26.02.2016 3:35:34  Mode 2 stop Duration:0,6895364
+26.02.2016 3:35:34  Mode 3 start
+
+Application close: 26.02.2016 3:35:36 
+//End
+
+//Eval:
+Total Duration in seconds:10
+Total Duration in minutes:0,17
+-----------------------------------------------------------------------------------------------

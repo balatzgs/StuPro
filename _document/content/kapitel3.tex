@@ -1,0 +1,341 @@
+% !TeX spellcheck = de_DE
+
+\chapter{Projektplan}
+\label{chap:projektplan}
+
+\section{Einleitung}
+
+\subsection{Zweck des Projektplans}
+Dieser Projektplan dokumentiert die Ziele des Projekts, die Zeitplanung für deren Verwirklichung und alle relevanten Bedingungen für das Projekt.
+
+Da der Projektablauf nicht genau vorausgesagt werden kann, muss dieser Projektplan mit dem tatsächlichen Projektablauf synchron gehalten und damit verändert werden.
+
+Die genauen Anforderungen können im Angebot beziehungsweise in der Spezifikation nachgelesen werden.
+
+\subsection{Lesekreis der Spezifikation}
+Folgende Personen gehören zum Leserkreis des Projektplans:
+\begin{itemize}
+	\item Der Kunde
+	\item Das gesamte Entwicklerteam
+	\item Die universitären Betreuer
+\end{itemize}
+
+\subsection{Projektüberblick}
+Das zu verwirklichende Projekt soll eine Software produzieren, die die einkommenden Bildinformationen einer Wärmebildkamera mit denen einer Tiefenbildkamera kombiniert.
+Dabei sollen einerseits Information über Wärme und Entfernung des Bildmittelpunkts dargestellt werden und andererseits die Umrisse der warmen Objekte, gegeben der Tiefenbildinformationen, nachgezeichnet werden und damit zu einem schärfen Bild führen.
+
+Die zu verwirklichende Software muss in der Lage sein, auf einem Windows Laptop zu laufen und sollen neben der Ansteuerung der Outputgeräte auch für das Rendern zuständig sein.
+
+Die Bildausgabe soll auf der \meta via Augmented Reality geschehen und bei Bedarf auch an ein Smartphone oder Tablet weitergeleitet werden können, um mehreren Person den Zugang zu den bereitgestellten Information zu geben. Selbstverständlich soll die Ausgabe auch abgestellt werden können.
+
+Die Bedienung soll über eine Funkmaus erfolgen, aber auch über das Handy möglich sein.
+
+Zusätzlich muss eine Halterung hergestellt werden, welche die Wärmebildkamera mit der Tiefenbildkamera verbindet.
+
+\subsection{Entwicklungsphilosophie}
+Bei der Bearbeitung des Projekts sollten ingenieurmäßige Prinzipien zur Anwendung kommen, um eine hohe Qualität der Ergebnisse und die Einhaltung der Ablaufplanung sicherzustellen.
+Daher ist auf Einhaltung aller gegebenen Normen und Standards zu achten.
+
+So wird mindestens die Projektspezifikation einen Review unterzogen.
+Alle Dokumente werden immer aktuell gehalten, um am Projektende eine ausführliche Dokumentation des Projekts und des Projektablaufs zu haben.
+
+Dies gewährleistet eine Funktionalität des fertigen Softwareprodukts.
+
+\subsection{Vertragliche Grundlagen}
+
+\subsubsection{Vertragliche Anforderungen}
+Die Teammitglieder verpflichten sich ohne eine feste Anstellung beziehungsweise ohne jegliches Gehalt die Software zu entwickeln.
+
+Das Entwicklerteam übernimmt keinerlei Haftung für die Schäden, die durch Fehlfunktionen der entwickelten Software verursacht werden.
+
+Die Entwicklung soll iterativ geschehen, das heißt, dass die einzelnen Arbeitspakete mehrmals zeitunabhängig durchgeführt werden.
+
+Die Implementierung muss in C\# 5 erfolgen.
+
+Folgende Software darf/soll verwendet werden:
+\begin{itemize}
+	\item C\# 5
+	\item SDKs der gegebenen Hardware
+	\item Splashtop Personal
+	\item optris PI Connect
+\end{itemize}
+
+Die Abgabe des fertigen und lauffähigen Produkts muss bis spätestens 31.3.2016 erfolgt sein.
+
+Nach Abschluss des Projekts, werden alle Rechte an dem Produkt an die Universität Stuttgart überschrieben.
+
+Die Entwickler verpflichten sich nicht zur Wartung des Produkts.
+
+\subsubsection{Leistungen des Kunden}
+Der Auftraggeber erklärt sich bereit
+\begin{itemize}
+	\item Wärmebildkamera (Optris  PI400)
+	\item Tiefenbildkamera (Asus XtionPro Live)
+	\item \meta Developer Kit
+	\item Kundengespräch mit Feuerwehr
+	\item Mittel zur Erstellung der Halterung
+\end{itemize}
+zur Verfügung zu stellen.
+
+\subsection{Beschreibung des Projekts}
+
+\subsubsection{Arbeitsumfang}
+Das Projekt gliedert sich in folgende Teilaufgaben:
+\begin{enumerate}
+	\item \textbf{Analyse} Test weiterer Ein- und Ausgabemethoden und Halterungen
+	\item \textbf{Projektplan aktualisieren} Termine und Arbeitspakete \ggf aktualisieren
+	\item \textbf{Spezifikation} Formale Niederschrift aller vom Kunden genannten Anforderungen an das zu entwickelnde System. Hierbei sollen insbesondere auch nicht funktionale Anforderungen (\bzgl Qualität etc.) detailliert festgehalten werden
+	\item \textbf{Review der Spezifikation} mit anschließender Korrektur der entdeckten Fehler und eventuelle Streichung von Anforderungen, die die Möglichkeiten der aktuellen Informatik beziehungsweise das zeitliche Budget überschreiten
+	\item \textbf{Entwurf} Aufteilung des zu entwickelnden Systems in Klassen und Festlegung der Schnittstellen zwischen einzelnen Teilen des System
+	\item \textbf{Review des Entwurfs} mit anschließender Korrektur der entdeckten Fehler
+	\item \textbf{Implementierung des Programms}
+	\item \textbf{Durchführung der Modultests} und \ggf Korrektur der Implementierung
+	\item \textbf{Durchführung eines Systemstest} und \ggf Korrektur des Codes
+	\item \textbf{Evaluation des System durch User Studies}
+	\item \textbf{Auslieferung  des Systems an den Kunden}
+\end{enumerate}
+
+\subsection{Lieferumfang}
+Am Projektende werden an den Kunden folgende Dokumente ausgeliefert:
+\begin{itemize}
+	\item Projektplan
+	\item Spezifikation
+	\item Entwurf
+	\item Ausführbares Programm
+	\item Vollständiger, kompilierbarer Programmcode
+	\item Kurze Installations- und Startanleitung
+	\item Lizenzen, falls erforderlich
+\end{itemize}
+Zusätzlich werden die entwickelten Halterungen und die bereitgestellte Hardware beigefügt.
+
+\subsection{Aufwandsschätzung}
+Das Projekt wird von 10 Entwicklern durchgeführt.
+
+Geplant ist, das Projekt bis 31.3.2016 fertigzustellen.
+
+Pro Entwickler sind damit ca. 450 Stunden Arbeitszeit eingeplant.
+
+\section{Risiken}
+
+\subsection{Risiken, ihre Bewertung und Gegenmaßnahmen}
+\begin{center}
+	\begin{tabular}{| p{3cm} | p{12cm} |}
+		\hline
+		Risiko & Personeller Ausfall \\ \hline
+		
+		Bewertung & Dieses Risiko hat eine hohe Eintrittswahrscheinlichkeit. \\ \hline
+		
+		Auswirkung & Sollte ein Entwickler komplett ausfallen, ist damit zu rechnen, dass es zu einer Umverteilung der Aufgaben kommt und \ggf ist auch eine Eingrenzung der zu entwickelten Software nicht auszuschließen.
+		In diesem Fall müssen unter allen Umständen die Betreuer informiert werden. \\ \hline
+		
+		Gegenmaßnahme & Durch regelmäßige Treffen und Mailkontakt informiert jeder Projektteilnehmer die anderen über seine Arbeit und seinen Fortschritt, dadurch sollten alle einen groben Überblick über den Stand der anderen haben und auf kurzzeitige Ausfälle durch eine Umverteilung reagieren können.
+		Zusätzlich müssen alle beteiligten Entwickler sehr ausführlich ihren Code sowie die restlichen Produktbestandteile kommentieren und erläutern. \\
+		\hline
+	\end{tabular}
+\end{center}
+
+\begin{center}
+	\begin{tabular}{| p{3cm} | p{12cm} |}
+		\hline
+		Risiko & Terminprobleme \\ \hline
+		
+		Bewertung & Dieses Risiko hat eine mittlere Eintrittswahrscheinlichkeit. \\ \hline
+		
+		Auswirkung & Funktionen der Software oder Dokumente werden nicht rechtzeitig zum Abgabetermin fertig beziehungsweise sind mangelhaft was dazu führt das diese nachbearbeitet werden müssen und andere Aufgaben auf der Strecke bleiben. \\ \hline
+		
+		Gegenmaßnahme & Um Terminproblemen entgegen zu wirken wird ein Terminplan erstellt und aktuell gehalten.
+		Außerdem werden den Teammitgliedern verschiedene Zuständigkeitsbereiche zugeteilt.
+		Ein „gold-plating“, also die Perfektionierung von kleinen, eher unbedeutenden Bestandteilen, soll vermieden werden. \\
+		\hline
+	\end{tabular}
+\end{center}
+
+\begin{center}
+	\begin{tabular}{| p{3cm} | p{12cm} |}
+		\hline
+		Risiko & Entwicklung der falschen Funktionalität \\ \hline
+		
+		Bewertung & Dieses Risiko hat eine geringe Eintrittswahrscheinlichkeit. \\ \hline
+		
+		Auswirkung & Eine Entwicklung der falschen Funktionalität hat, im besten Fall, das fehlen eines Features zur Folge.
+			
+		Im schlechtesten Fall, wurde das Ziel des eigentlichen Projekts verfehlt, was ein Scheitern des Studienprojekts zur Folge hätte. \\ \hline
+		
+		Gegenmaßnahme & Um einer falschen Funktionalität entgegen zu wirken, wird die Spezifikation von anderen (mit dem Projekt vertrauten) Entwicklern einem Review unterzogen.
+		Der Entwurf wird erfahrenen Entwicklern präsentiert und auf seinen Sinn überprüft.
+		
+		Die Analyse soll ausführlich und genau durchgeführt werden, falls dennoch Zweifel bestehen, soll mit dem Kunden über das Kundenforum Kontakt aufgenommen werden.
+		
+		Zusätzlich werden Analyse, Projektplan, Spezifikation, sowie Entwurf auf Papier festgehalten und zu den gegebenen Meilensteinen überprüft.
+		Durch die regelmäßigen Treffen mit den Betreuern, soll dieses Risiko zudem minimiert werden.
+		
+		Falls jedoch Anforderungen vergessen wurden, muss bei der Abnahme um eine Zeitverlängerung gebeten werden, um das Produkt noch den gewünschten Anforderungen anzupassen. \\
+		\hline
+	\end{tabular}
+\end{center}
+
+\begin{center}
+	\begin{tabular}{| p{3cm} | p{12cm} |}
+		\hline
+		Risiko & Kommunikationsprobleme im Team \\ \hline
+		
+		Bewertung & Dieses Risiko hat eine geringe Eintrittswahrscheinlichkeit. \\ \hline
+		
+		Auswirkung & Es werden Funktionalitäten doppelt implementiert beziehungsweise gar nicht, weil keine Aufgaben verteilt wurden. \\ \hline
+		
+		Gegenmaßnahme & Missverständnisse und Kommunikationsprobleme werden durch regelmäßige persönliche Treffen, sowie häufigen Mailkontakt entgegengewirkt.
+		Die Zuständigkeitsbereiche werden außerdem sehr genau verteilt.
+		
+		Die durch Missverständnisse entstandene Zeitverschiebung muss rechtzeitig im Terminplan vermerkt werden. \\
+		\hline
+	\end{tabular}
+\end{center}
+
+\section{Entwicklungsplan}
+
+\subsection{Arbeitspakete}
+Das Projekt beinhaltet folgende unabhängige Arbeitpakete:
+
+Diese Arbeitspakete sollen, während der Projektdauer, mehrmals durchlaufen werden, um ein möglichst hochwertiges Endprodukt zu gewährleisten.
+\begin{itemize}
+	\item Analyse
+	\item Überarbeitung des Projektplans
+	\item Spezifikationserstellung \& Spezifikationsreview \& Spezifikationsüberarbeitung
+	\item Entwurfserstellung \& Entwurfsreview \& Entwurfsüberarbeitung
+	\item Implementierung \& Modultest \& Systemtest \& \ggf Korrektur des Codes
+	\item User Studies
+	\item Halterungen erstellen
+	\item Auslieferung
+	\item Sonstiges
+\end{itemize}
+
+\subsection{Zeitplan und Meilensteine}
+\begin{center}
+	\begin{longtable}{| c | c | p{10cm} | c |}
+		\hline
+		Nr. & Meilenstein & Abzugebende Dokumente & Termin \\ \hline
+		
+		1 & Projektplan & Dokumente: Projektplan\newline \newline Code: ---\newline \newline Ausführbare Datei: ---\newline \newline Physisches Objekt: --- & 1.7.2015 \\ \hline
+		
+		2 & Spezifikation & Dokumente: Spezifikation / Anforderungsanalyse\newline \newline Code: ---\newline \newline Ausführbare Datei: ---\newline \newline Physisches Objekt: --- & 8.7.2015 \\ \hline
+		
+		3 & Entwurf & Dokumente: Entwurf / Design\newline \newline Code: ---\newline \newline Ausführbare Datei: ---\newline \newline Physisches Objekt: --- & 5.8.2015 \\ \hline
+		
+		4 & Implementierung & Dokumente: User Study mit Studenten\newline \newline Code: Alpha (Wärmebild und Tiefenbild alleine, Ausgabe nur auf dem Smartphone)\newline \newline Ausführbare Datei: Alpha (Wärmebild und Tiefenbild alleine, Ausgabe nur auf dem Smartphone)\newline \newline Physisches Objekt: Halterung für Kameras & 7.10.2015 \\ \hline
+		
+		5 & Implementierung & Dokumente: ---\newline \newline Code: Beta (Wärmebild mit Tiefenbild fusioniert, Ausgabemethoden wechseln, Ausgabe auf der AR Brille und Smartphone), Systemtest\newline \newline Ausführbare Datei: Beta (Wärmebild mit Tiefenbild fusioniert, Ausgabemethoden wechseln, Ausgabe auf der AR Brille und Smartphone)\newline \newline Physisches Objekt:  Halterung auch für Smartphone & 11.11.2015 \\ \hline
+		
+		6 & Release Candidate & Dokumente: User Study mit Feuerwehrleuten\newline \newline Code: ---\newline \newline Ausführbare Datei: ---\newline \newline Physisches Objekt: Helmhalterung & 20.1.2016 \\ \hline
+		
+		7 & Abnahme & Dokumente: Projektplan, Spezifikation, Entwurf, Kurze Installations- und Startanleitung, Lizenzen, falls erforderlich\newline \newline Code: Vollständiger, kompilierbarer Programmcode\newline \newline Ausführbare Datei: Ausführbares Programm\newline \newline Physisches Objekt: Halterungen, bereitgestellte Hardware & 31.3.2016 \\ \hline
+		
+		8 & Abschluss & --- &  April 2016 \\	
+		\hline
+	\end{longtable}
+\end{center}
+
+\section{Entwicklungsprozess}
+
+\subsection{Dokumentation}
+Folgende Dokumente sollen während des Projekts erstellt und gepflegt werden:
+\begin{itemize}
+	\item Analysenotizen \& sonstige Dokumente des Kunden
+	\item Projektplan
+	\item Begriffslexikon
+	\item Spezifikation
+	\item Entwurf
+\end{itemize}
+
+\subsection{Qualitätssicherung}
+Während des gesamten Entwicklungsprozesses soll eine hohe Qualität aller erstellten Dokumente gewährleistet sein, weshalb das Einhalten aller Standards unerlässlich ist.
+Dazu müssen die entstandenen Dokumente Reviews unterzogen werden und anhand der Befunde korrigiert werden.
+Es sind zwei Arten von Reviews geplant, einerseits ein internes Review der Spezifikation durch die Entwicklergruppe selbst und andererseits eine Präsentation vor erfahrenen Entwicklern.
+
+Auch das Testen der Implementierung ist wichtig, weshalb es Modultests, sowie einen Systemtest geben wird.
+
+Zudem muss der Projektfortschritt regelmäßig erfasst und die Zeitplanung \ggf daran angepasst werden.
+Damit sollen unerwartete Terminschwierigkeiten verhindert werden.
+
+\subsection{Eingesetzte Werkzeuge}
+Folgende Werkzeuge werden bei der Entwicklung eingesetzt:
+\begin{description}
+	\item [Eclipse / Visual Studio] --- Entwicklungsumgebung\&
+	\item [GitLab \& Google Drive] --- Konfigurationsmanagement
+	\item [\LaTeX{}] --- Dokumentenerstellung
+	\item [UmLet] --- UML-Modellierung
+	\item [RevAger] --- Review-Organisation und -protokollierung
+	\item [Testsuite-Management (TSM)] --- Testfallverwaltung
+\end{description}
+
+\subsection{Programmierrichtlinien}
+Als Programmierrichtlinien dienen die Codekonventionen von Microsoft für C\#\footnote{\href{https://msdn.microsoft.com/de-de/library/ff926074.aspx}{https://msdn.microsoft.com/de-de/library/ff926074.aspx}}, an die sich die Entwickler halten um guten und verständlichen Quellcode zu erzeugen.
+
+\section{Projektorganisation}
+\begin{center}
+	\begin{longtable}{ p{4cm}  p{4cm} c}
+		Projektmitglied 1 & & Georgios Balatzis \\
+		& \matr & 2539443 \\
+		& \email & \href{mailto:Georgios.Balatzis@tik.uni-stuttgart.de}{Georgios.Balatzis@tik.uni-stuttgart.de} \\
+		\\
+		Projektmitglied 2 & & Désirée Brunner \\
+		& \matr & 2798873 \\
+		& \email & \href{mailto:desiree.brunner3@gmail.com}{desiree.brunner3@gmail.com} \\
+		\\
+		Projektmitglied 3 & & Bamini Inderarajah \\
+		& \matr & 2781738 \\
+		& \email & \href{mailto:st100499@stud.uni-stuttgart.de}{st100499@stud.uni-stuttgart.de} \\
+		\\
+		Projektmitglied 4 & & Rafael Janetzko \\
+		& \matr &  2906403 \\
+		& \email & \href{mailto:st111995@stud.uni-stuttgart.de}{st111995@stud.uni-stuttgart.de} \\
+		\\
+		Projektmitglied 5 & & Tung Anh Nguyen \\
+		& \matr & 2788508 \\
+		& \email & \href{mailto:tunganh.nguyen@t-online.de}{tunganh.nguyen@t-online.de} \\
+		\\
+		Projektmitglied 6 & & Valentin Seifermann \\
+		& \matr & 2853637 \\
+		& \email & \href{mailto:seifervn@studi.informatik.uni-stuttgart.de}{seifervn@studi.informatik.uni-stuttgart.de} \\
+		\\
+		Projektmitglied 7 & & Jens Reinhart \\
+		& \matr & 2876847 \\
+		& \email & \href{mailto:jens-reinhart@web.de}{jens-reinhart@web.de} \\
+		\\
+		\\
+		Projektmitglied 8 & & Marvin Tiedtke \\
+		& \matr & 2814650 \\
+		& \email & \href{mailto:st102418@stud.uni-stuttgart.de}{st102418@stud.uni-stuttgart.de} \\
+		\\
+		Projektmitglied 9 & & Kim Trong Truong  \\
+		& \matr & 2834274 \\
+		& \email & \href{mailto:st104889@stud.uni-stuttgart.de}{st104889@stud.uni-stuttgart.de} \\
+		\\
+		Projektmitglied 10 & & Suraya Uddin \\
+		& \matr & 2787295 \\
+		& \email & \href{mailto:st100239@stud.uni-stuttgart.de}{st100239@stud.uni-stuttgart.de} \\
+		\\
+		Projektleiter & &  Marvin Tiedtke \\
+		\\
+		Stellvertretender Projektleiter & & Georgios Balatzis \\
+		\\
+		Betreuer 1 & & Jun.-Prof. Niels Henze \\
+		& \email & \href{mailto:niels.henze@vis.uni-stuttgart.de}{niels.henze@vis.uni-stuttgart.de} \\
+		\\
+		Betreuer 2 & & Pascal Knierim, M.Sc. \\
+		& \email & \href{mailto:Pascal.Knierim@vis.uni-stuttgart.de}{Pascal.Knierim@vis.uni-stuttgart.de} \\
+		\\
+		Betreuer 3 & & Yomna Abdelrahman, M.Sc. \\
+		& \email & \href{mailto:Yomna.Abdelrahman@vis.uni-stuttgart.de}{Yomna.Abdelrahman@vis.uni-stuttgart.de} \\
+		\\
+		Kunde & & Jun.-Prof. Niels Henze
+	\end{longtable}
+\end{center}
+
+\section{Versionhistorie}
+\begin{description}
+	\item [Version 0.1 (11.6.2015)] Erstellen eines ersten groben Entwurfs
+	\item [Version 1.0 (19.6.2015)] Überarbeitung des Angebots
+	\item [Version 1.1 (6.7.2015)] Überarbeitung der Meilensteine
+	\item [Version 1.2 (19.7.2015)] Überarbeitung der Arbeitspakete \& Feststellung der Meilensteindokumentart
+	\item [Version 1.3 (3.3.2016)] Aktualisierung \& Korrektur des Dokuments
+\end{description}

@@ -1,0 +1,14 @@
+
+-----------------------------------------------------------------------------------------------
+//Start (Mode1 = no image; Mode2 = Tiefenbild; Mode3 = Wärmebild;)
+Application start at: 23.01.2016 12:00:14 
+
+23.01.2016 12:00:14  Mode 1 (Idle) 
+
+Application close: 23.01.2016 12:00:17 
+//End
+
+//Eval:
+Total Duration in seconds:3
+Total Duration in minutes:0,05
+-----------------------------------------------------------------------------------------------

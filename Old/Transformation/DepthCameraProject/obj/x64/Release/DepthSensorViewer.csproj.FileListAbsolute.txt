@@ -1,0 +1,6 @@
+C:\Users\Kim\Desktop\DepthCamera9\DepthCameraProject\bin\x64\Release\WindowsFormsApplication1.exe.config
+C:\Users\Kim\Desktop\ProFireDemov0.0\DepthCameraProject\bin\x64\Release\WindowsFormsApplication1.exe.config
+C:\Users\Kim\Desktop\ProFireDemov0.0\DepthCameraProject\obj\x64\Release\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Desktop\ProFireDemov0.0\DepthCameraProject\obj\x64\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kim\Desktop\ProFireDemov0.0\DepthCameraProject\obj\x64\Release\Camera.net.MainWindow.resources
+C:\Users\Kim\Desktop\ProFireDemov0.0\DepthCameraProject\obj\x64\Release\DepthSensorViewer.csproj.GenerateResource.Cache

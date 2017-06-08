@@ -1,0 +1,5 @@
+C:\Users\Kim\ProFire\ProfireV2\DepthCameraProject\bin\Release\ProFire_v.1.0.exe.config
+C:\Users\Kim\Desktop\Version für Studie\DepthCameraProject\bin\Release\ProFire_v.1.0.exe.config
+C:\Users\Kim\Desktop\Version für Studie\DepthCameraProject\obj\Release\ProFire.Properties.Resources.resources
+C:\Users\Kim\Desktop\Version für Studie\DepthCameraProject\obj\Release\Camera.net.MainWindow.resources
+C:\Users\Kim\Desktop\Version für Studie\DepthCameraProject\obj\Release\DepthSensorViewer.csproj.GenerateResource.Cache

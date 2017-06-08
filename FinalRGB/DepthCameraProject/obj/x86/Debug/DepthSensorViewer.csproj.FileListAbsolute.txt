@@ -1,0 +1,361 @@
+C:\Users\Kim\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Kim\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kim\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\Kim\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\Desktop\StuPro\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Kim\Desktop\StuPro\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\Desktop\StuPro\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\Desktop\StuPro\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kim\Desktop\StuPro\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\Desktop\StuPro\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\Kim\Desktop\StuPro\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\Desktop\StuPro\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\Desktop\StuPro\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Desktop\StuPro\DepthCameraProject\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Kim\Desktop\StuPro\DepthCameraProject\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\Desktop\StuPro\DepthCameraProject\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\Desktop\StuPro\DepthCameraProject\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\Desktop\StuPro\DepthCameraProject\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\Desktop\StuPro\DepthCameraProject\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Desktop\StuPro\DepthCameraProject\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kim\Desktop\StuPro\DepthCameraProject\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\Desktop\StuPro\DepthCameraProject\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\Kim\ProFire\DepthCameraProject\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Kim\ProFire\DepthCameraProject\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\ProFire\DepthCameraProject\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\Desktop\DepthCameraProject\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Kim\Desktop\DepthCameraProject\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\Desktop\DepthCameraProject\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\Desktop\DepthCameraProject\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\Desktop\DepthCameraProject\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\Desktop\DepthCameraProject\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Desktop\DepthCameraProject\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kim\Desktop\DepthCameraProject\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\Desktop\DepthCameraProject\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\Kim\ProFire\DepthCameraProject\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\ProFire\DepthCameraProject\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\ProFire\DepthCameraProject\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\ProFire\DepthCameraProject\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kim\ProFire\DepthCameraProject\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\ProFire\DepthCameraProject\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\Kim\Desktop\DepthCameraProject2\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Kim\Desktop\DepthCameraProject2\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\Desktop\DepthCameraProject2\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\Desktop\DepthCameraProject2\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Desktop\DepthCameraProject2\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kim\Desktop\DepthCameraProject2\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\Desktop\DepthCameraProject2\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\Kim\Desktop\DepthCameraProject2\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\Desktop\DepthCameraProject2\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\Desktop\DepthCameraProject3Gui\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Kim\Desktop\DepthCameraProject3Gui\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\Desktop\DepthCameraProject3Gui\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\Desktop\DepthCameraProject3Gui\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\Desktop\DepthCameraProject3Gui\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\Desktop\DepthCameraProject3Gui\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Desktop\DepthCameraProject3Gui\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kim\Desktop\DepthCameraProject3Gui\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\Desktop\DepthCameraProject3Gui\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\Kim\Desktop\DepthCameraProject4Gui\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Kim\Desktop\DepthCameraProject4Gui\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\Desktop\DepthCameraProject4Gui\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\Desktop\DepthCameraProject4Gui\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\Desktop\DepthCameraProject4Gui\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\Desktop\DepthCameraProject4Gui\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Desktop\DepthCameraProject4Gui\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kim\Desktop\DepthCameraProject4Gui\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\Desktop\DepthCameraProject4Gui\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\Kim\Desktop\DepthCameraProjectReversGui\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Kim\Desktop\DepthCameraProjectReversGui\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\Desktop\DepthCameraProjectReversGui\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\Desktop\DepthCameraProjectReversGui\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\Desktop\DepthCameraProjectReversGui\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\Desktop\DepthCameraProjectReversGui\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Desktop\DepthCameraProjectReversGui\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kim\Desktop\DepthCameraProjectReversGui\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\Desktop\DepthCameraProjectReversGui\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\Kim\Desktop\StuPro\DepthCamera7\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Kim\Desktop\StuPro\DepthCamera7\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\Desktop\StuPro\DepthCamera7\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\Desktop\StuPro\DepthCamera7\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\Desktop\StuPro\DepthCamera7\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\Desktop\StuPro\DepthCamera7\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Desktop\StuPro\DepthCamera7\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kim\Desktop\StuPro\DepthCamera7\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\Desktop\StuPro\DepthCamera7\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\Kim\Desktop\DepthCamera8\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Kim\Desktop\DepthCamera8\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\Desktop\DepthCamera8\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\Desktop\DepthCamera8\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\Desktop\DepthCamera8\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\Desktop\DepthCamera8\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Desktop\DepthCamera8\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kim\Desktop\DepthCamera8\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\Desktop\DepthCamera8\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\Kim\Desktop\DepthCamera9\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Kim\Desktop\DepthCamera9\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\Desktop\DepthCamera9\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\Desktop\DepthCamera9\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\Desktop\DepthCamera9\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\Desktop\DepthCamera9\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Desktop\DepthCamera9\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kim\Desktop\DepthCamera9\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\Desktop\DepthCamera9\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\Kim\Desktop\ProFirev0.0\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Kim\Desktop\ProFirev0.0\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\Desktop\ProFirev0.0\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\Desktop\ProFirev0.0\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\Desktop\ProFirev0.0\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\Desktop\ProFirev0.0\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Desktop\ProFirev0.0\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kim\Desktop\ProFirev0.0\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\Desktop\ProFirev0.0\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\Kim\Desktop\ProFirev0.1\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Kim\Desktop\ProFirev0.1\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\Desktop\ProFirev0.1\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\Desktop\ProFirev0.1\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\Desktop\ProFirev0.1\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\Desktop\ProFirev0.1\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Desktop\ProFirev0.1\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kim\Desktop\ProFirev0.1\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\Desktop\ProFirev0.1\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\Kim\Desktop\ProFirev0.2\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Kim\Desktop\ProFirev0.2\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\Desktop\ProFirev0.2\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\Desktop\ProFirev0.2\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Desktop\ProFirev0.2\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kim\Desktop\ProFirev0.2\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\Desktop\ProFirev0.2\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\Kim\Desktop\ProFirev0.2\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\Desktop\ProFirev0.2\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\Desktop\ProFireDemov0.0\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Kim\Desktop\ProFireDemov0.0\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\Desktop\ProFireDemov0.0\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\Desktop\ProFireDemov0.0\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kim\Desktop\ProFireDemov0.0\DepthCameraProject\bin\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\Desktop\ProFireDemov0.0\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Desktop\ProFireDemov0.0\DepthCameraProject\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kim\Desktop\ProFireDemov0.0\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\Desktop\ProFireDemov0.0\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Stupro\ProFire\ProFireDemov0.0\DepthCameraProject\bin\x86\Debug\OpenNI.Net.dll
+C:\Stupro\ProFire\ProFireDemov0.0\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Stupro\ProFire\ProFireDemov0.0\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Stupro\ProFire\ProFireDemov0.0\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe.config
+C:\Stupro\ProFire\ProFireDemov0.0\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe
+C:\Stupro\ProFire\ProFireDemov0.0\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.pdb
+C:\Stupro\ProFire\ProFireDemov0.0\DepthCameraProject\obj\x86\Debug\ProFire.Properties.Resources.resources
+C:\Stupro\ProFire\ProFireDemov0.0\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.exe
+C:\Stupro\ProFire\ProFireDemov0.0\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\ASUS\Desktop\git repos\ProFire\ProFireDemov0.0\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe.config
+C:\Users\ASUS\Desktop\git repos\ProFire\ProFireDemov0.0\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.exe
+C:\Users\ASUS\Desktop\git repos\ProFire\ProFireDemov0.0\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\ASUS\Desktop\git repos\ProFire\ProFireDemov0.0\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\git repos\ProFire\ProFireDemov0.0\DepthCameraProject\obj\x86\Debug\ProFire.Properties.Resources.resources
+C:\Users\ASUS\Desktop\git repos\ProFire\ProFireDemov0.0\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\ASUS\Desktop\git repos\ProFire\ProFireDemov0.0\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\git repos\ProFire\ProFireDemov0.0\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe
+C:\Users\ASUS\Desktop\git repos\ProFire\ProFireDemov0.0\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\ProFire\ProFireDemov0.0\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe.config
+C:\Users\Kim\ProFire\ProFireDemov0.0\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\ProFire\ProFireDemov0.0\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\ProFire\ProFireDemov0.0\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\ProFire\ProFireDemov0.0\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\ProFire\ProFireDemov0.0\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\ProFire\ProFireDemov0.0\DepthCameraProject\obj\x86\Debug\ProFire.Properties.Resources.resources
+C:\Users\Kim\ProFire\ProFireDemov0.0\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\ProFire\ProFireDemov0.0\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\Kim\ProFire\v1.0\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe.config
+C:\Users\Kim\ProFire\v1.0\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\ProFire\v1.0\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\ProFire\ProFireV1\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe.config
+C:\Users\Kim\ProFire\ProFireV1\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\ProFire\ProFireV1\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\ProFire\ProFireV1\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\ProFire\ProFireV1\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\ProFire\ProFireV1\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\ProFire\ProFireV1\DepthCameraProject\obj\x86\Debug\ProFire.Properties.Resources.resources
+C:\Users\Kim\ProFire\ProFireV1\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\ProFire\ProFireV1\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\Kim\Desktop\ProFireV1\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe.config
+C:\Users\Kim\Desktop\ProFireV1\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\Desktop\ProFireV1\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\Desktop\ProFireV1\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\Desktop\ProFireV1\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\Desktop\ProFireV1\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Desktop\ProFireV1\DepthCameraProject\obj\x86\Debug\ProFire.Properties.Resources.resources
+C:\Users\Kim\Desktop\ProFireV1\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\Desktop\ProFireV1\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Stupro\ProFire\ProFireV1.1\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe.config
+C:\Stupro\ProFire\ProFireV1.1\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.exe
+C:\Stupro\ProFire\ProFireV1.1\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.pdb
+C:\Stupro\ProFire\ProFireV1.1\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe
+C:\Stupro\ProFire\ProFireV1.1\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.pdb
+C:\Stupro\ProFire\ProFireV1.1\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Stupro\ProFire\ProFireV1.1\DepthCameraProject\obj\x86\Debug\ProFire.Properties.Resources.resources
+C:\Stupro\ProFire\ProFireV1.1\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Stupro\ProFire\ProFireV1.1\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\Kim\Desktop\ProFireV1.1\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe.config
+C:\Users\Kim\Desktop\ProFireV1.1\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\Desktop\ProFireV1.1\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\Desktop\ProFireV1.1\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\Desktop\ProFireV1.1\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\Desktop\ProFireV1.1\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Desktop\ProFireV1.1\DepthCameraProject\obj\x86\Debug\ProFire.Properties.Resources.resources
+C:\Users\Kim\Desktop\ProFireV1.1\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\Desktop\ProFireV1.1\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\Kim\Desktop\ProFireV1.1.1\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe.config
+C:\Users\Kim\Desktop\ProFireV1.1.1\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\Desktop\ProFireV1.1.1\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\Desktop\ProFireV1.1.1\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\Desktop\ProFireV1.1.1\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\Desktop\ProFireV1.1.1\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Desktop\ProFireV1.1.1\DepthCameraProject\obj\x86\Debug\ProFire.Properties.Resources.resources
+C:\Users\Kim\Desktop\ProFireV1.1.1\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\Desktop\ProFireV1.1.1\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\Kim\Google Drive\ProFireV1.1.10\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe.config
+C:\Users\Kim\Google Drive\ProFireV1.1.10\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\Google Drive\ProFireV1.1.10\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\Google Drive\ProFireV1.1.10\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\Google Drive\ProFireV1.1.10\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\Google Drive\ProFireV1.1.10\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Google Drive\ProFireV1.1.10\DepthCameraProject\obj\x86\Debug\ProFire.Properties.Resources.resources
+C:\Users\Kim\Google Drive\ProFireV1.1.10\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\Google Drive\ProFireV1.1.10\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Stupro\ProFire\ProFireV1.1.10\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe.config
+C:\Stupro\ProFire\ProFireV1.1.10\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.exe
+C:\Stupro\ProFire\ProFireV1.1.10\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.pdb
+C:\Stupro\ProFire\ProFireV1.1.10\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe
+C:\Stupro\ProFire\ProFireV1.1.10\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.pdb
+C:\Stupro\ProFire\ProFireV1.1.10\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Stupro\ProFire\ProFireV1.1.10\DepthCameraProject\obj\x86\Debug\ProFire.Properties.Resources.resources
+C:\Stupro\ProFire\ProFireV1.1.10\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Stupro\ProFire\ProFireV1.1.10\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\Kim\Desktop\ProFireV1.1.10\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe.config
+C:\Users\Kim\Desktop\ProFireV1.1.10\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\Desktop\ProFireV1.1.10\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\Desktop\ProFireV1.1.10 - Kopie\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe.config
+C:\Users\Kim\Desktop\ProFireV1.1.10 - Kopie\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\Desktop\ProFireV1.1.10 - Kopie\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\Desktop\ProFireV1.1.10 - Kopie\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Desktop\ProFireV1.1.10 - Kopie\DepthCameraProject\obj\x86\Debug\ProFire.Properties.Resources.resources
+C:\Users\Kim\Desktop\ProFireV1.1.10 - Kopie\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\Desktop\ProFireV1.1.10 - Kopie\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\Kim\Desktop\ProFireV1.1.10 - Kopie\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\Desktop\ProFireV1.1.10 - Kopie\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\ProFire\test\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe.config
+C:\Users\Kim\ProFire\test\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\ProFire\test\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\ProFire\test\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\ProFire\test\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\ProFire\test\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\ProFire\test\DepthCameraProject\obj\x86\Debug\ProFire.Properties.Resources.resources
+C:\Users\Kim\ProFire\test\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\ProFire\test\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\Kim\ProFire\ProfireV2\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe.config
+C:\Users\Kim\ProFire\ProfireV2\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\ProFire\ProfireV2\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\ProFire\ProfireV2\DepthCameraProject\obj\x86\Debug\ProFire.Properties.Resources.resources
+C:\Users\Kim\ProFire\ProfireV2\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\ProFire\ProfireV2\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\Kim\ProFire\ProfireV2\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\ProFire\ProfireV2\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\ProFire\ProfireV2\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Desktop\ProfireV2\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe.config
+C:\Users\Kim\Desktop\ProfireV2\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\Desktop\ProfireV2\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\Desktop\ProfireV2\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\Desktop\ProfireV2\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\Desktop\ProfireV2\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Desktop\ProfireV2\DepthCameraProject\obj\x86\Debug\ProFire.Properties.Resources.resources
+C:\Users\Kim\Desktop\ProfireV2\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\Desktop\ProfireV2\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\Kim\Desktop\ProfireV2 Gute kalibrierung\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe.config
+C:\Users\Kim\Desktop\ProfireV2 Gute kalibrierung\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\Desktop\ProfireV2 Gute kalibrierung\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\Desktop\ProfireV2 Gute kalibrierung\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\Desktop\ProfireV2 Gute kalibrierung\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\Desktop\ProfireV2 Gute kalibrierung\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Desktop\ProfireV2 Gute kalibrierung\DepthCameraProject\obj\x86\Debug\ProFire.Properties.Resources.resources
+C:\Users\Kim\Desktop\ProfireV2 Gute kalibrierung\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\Desktop\ProfireV2 Gute kalibrierung\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\Kim\ProFire\ProfireV2 Gute kalibrierung\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe.config
+C:\Users\Kim\ProFire\ProfireV2 Gute kalibrierung\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\ProFire\ProfireV2 Gute kalibrierung\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\ProFire\ProfireV2 Gute kalibrierung\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\ProFire\ProfireV2 Gute kalibrierung\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\ProFire\ProfireV2 Gute kalibrierung\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\ProFire\ProfireV2 Gute kalibrierung\DepthCameraProject\obj\x86\Debug\ProFire.Properties.Resources.resources
+C:\Users\Kim\ProFire\ProfireV2 Gute kalibrierung\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\ProFire\ProfireV2 Gute kalibrierung\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\Kim\Desktop\ProFire\ProfireV2 Gute kalibrierung\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe.config
+C:\Users\Kim\Desktop\ProFire\ProfireV2 Gute kalibrierung\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\Desktop\ProFire\ProfireV2 Gute kalibrierung\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\Desktop\Version für Studie\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe.config
+C:\Users\Kim\Desktop\Version für Studie\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\Desktop\Version für Studie\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\Desktop\Version für Studie\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\Desktop\Version für Studie\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\Desktop\Version für Studie\DepthCameraProject\obj\x86\Debug\ProFire.Properties.Resources.resources
+C:\Users\Kim\Desktop\Version für Studie\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\Desktop\Version für Studie\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\Kim\Desktop\Version für Studie\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\ProFire\Version für Studie\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe.config
+C:\Users\Kim\ProFire\Version für Studie\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\ProFire\Version für Studie\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\ProFire\Version für Studie\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\ProFire\Version für Studie\DepthCameraProject\obj\x86\Debug\ProFire.Properties.Resources.resources
+C:\Users\Kim\ProFire\Version für Studie\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\ProFire\Version für Studie\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\Kim\ProFire\Version für Studie\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\ProFire\Version für Studie\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.pdb
+C:\Stupro\ProFire\Version für Studie\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe.config
+C:\Stupro\ProFire\Version für Studie\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe
+C:\Stupro\ProFire\Version für Studie\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.pdb
+C:\Stupro\ProFire\Version für Studie\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Stupro\ProFire\Version für Studie\DepthCameraProject\obj\x86\Debug\ProFire.Properties.Resources.resources
+C:\Stupro\ProFire\Version für Studie\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Stupro\ProFire\Version für Studie\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Stupro\ProFire\Version für Studie\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.exe
+C:\Stupro\ProFire\Version für Studie\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\Desktop\Version für Studie\DepthCameraProject\bin\x86\Debug\blackscreen.exe
+C:\Users\Kim\ProFire\Version für Studie_toogle\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe.config
+C:\Users\Kim\ProFire\Version für Studie_toogle\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\ProFire\Version für Studie_toogle\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\ProFire\Version für Studie_toogle\DepthCameraProject\bin\x86\Debug\blackscreen.exe
+C:\Users\Kim\ProFire\Version für Studie_toogle\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\ProFire\Version für Studie_toogle\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\ProFire\Version für Studie_toogle\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\ProFire\Version für Studie_toogle\DepthCameraProject\obj\x86\Debug\ProFire.Properties.Resources.resources
+C:\Users\Kim\ProFire\Version für Studie_toogle\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\ProFire\Version für Studie_toogle\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\Kim\Desktop\Version für Studie_toogle\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe.config
+C:\Users\Kim\Desktop\Version für Studie_toogle\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\Desktop\Version für Studie_toogle\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\Desktop\Version für Studie_toogle - Kopie\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe.config
+C:\Users\Kim\Desktop\Version für Studie_toogle - Kopie\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\Desktop\Version für Studie_toogle - Kopie\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\Desktop\Version für Studie_toogle - Kopie\DepthCameraProject\bin\x86\Debug\blackscreen.exe
+C:\Users\Kim\Desktop\Version für Studie_toogle - Kopie\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\Desktop\Version für Studie_toogle - Kopie\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.pdb
+C:\Users\Kim\Desktop\Version für Studie_toogle - Kopie\DepthCameraProject\obj\x86\Debug\ProFire.Properties.Resources.resources
+C:\Users\Kim\Desktop\Version für Studie_toogle - Kopie\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Users\Kim\Desktop\Version für Studie_toogle - Kopie\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Users\Kim\Desktop\Version für Studie_toogle - Kopie\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Desktop\FinalRGB\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe.config
+C:\Users\Kim\Desktop\FinalRGB\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.exe
+C:\Users\Kim\Desktop\FinalRGB\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.pdb
+C:\Stupro\ProFire\FinalRGB\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe.config
+C:\Stupro\ProFire\FinalRGB\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.exe
+C:\Stupro\ProFire\FinalRGB\DepthCameraProject\obj\x86\Debug\ProFire_v.1.0.pdb
+C:\Stupro\ProFire\FinalRGB\DepthCameraProject\bin\x86\Debug\blackscreen.exe
+C:\Stupro\ProFire\FinalRGB\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csprojResolveAssemblyReference.cache
+C:\Stupro\ProFire\FinalRGB\DepthCameraProject\obj\x86\Debug\ProFire.Properties.Resources.resources
+C:\Stupro\ProFire\FinalRGB\DepthCameraProject\obj\x86\Debug\Camera.net.MainWindow.resources
+C:\Stupro\ProFire\FinalRGB\DepthCameraProject\obj\x86\Debug\DepthSensorViewer.csproj.GenerateResource.Cache
+C:\Stupro\ProFire\FinalRGB\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.exe
+C:\Stupro\ProFire\FinalRGB\DepthCameraProject\bin\x86\Debug\ProFire_v.1.0.pdb

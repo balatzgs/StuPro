@@ -1,0 +1,8 @@
+C:\Stupro\ProFire\Thermal IR\bin\Debug\Start IPC2 CSharp.exe.config
+C:\Stupro\ProFire\Thermal IR\bin\Debug\Start IPC2 CSharp.exe
+C:\Stupro\ProFire\Thermal IR\bin\Debug\Start IPC2 CSharp.pdb
+C:\Stupro\ProFire\Thermal IR\obj\Debug\IPC2.FormMain.resources
+C:\Stupro\ProFire\Thermal IR\obj\Debug\Start_IPC2_CSharp.Properties.Resources.resources
+C:\Stupro\ProFire\Thermal IR\obj\Debug\Start IPC2 CSharp.csproj.GenerateResource.Cache
+C:\Stupro\ProFire\Thermal IR\obj\Debug\Start IPC2 CSharp.exe
+C:\Stupro\ProFire\Thermal IR\obj\Debug\Start IPC2 CSharp.pdb

@@ -1,0 +1,46 @@
+
+-----------------------------------------------------------------------------------------------
+//Start (Mode1 = RGB; Mode2 = Tiefenbild; Mode3 = Wärmebild; Mode4 = Fusion)
+Application start at: 29.03.2016 1:15:51 
+
+29.03.2016 1:15:51  Mode 4
+29.03.2016 1:15:55  Mode 4 stop Duration:63594810955,1527
+29.03.2016 1:15:55  Mode 1 start
+29.03.2016 1:15:55  Mode 2 stop Duration:0,7790445
+29.03.2016 1:15:55  Mode 3 start
+29.03.2016 1:15:56  Mode 3 stop Duration:0,4200241
+29.03.2016 1:15:56  Mode 4 start
+29.03.2016 1:15:57  Mode 1 stop Duration:0,7210412
+29.03.2016 1:15:57  Mode 2 start
+29.03.2016 1:15:57  Mode 4 stop Duration:0,9030517
+29.03.2016 1:15:57  Mode 1 start
+29.03.2016 1:15:58  Mode 2 stop Duration:0,3700211
+29.03.2016 1:15:58  Mode 3 start
+29.03.2016 1:15:58  Mode 3 stop Duration:0,1970113
+29.03.2016 1:15:58  Mode 4 start
+29.03.2016 1:16:02  Mode 1 stop Duration:3,8762217
+29.03.2016 1:16:02  Mode 2 start
+29.03.2016 1:16:03  Mode 4 stop Duration:0,6440368
+29.03.2016 1:16:03  Mode 1 start
+29.03.2016 1:16:03  Mode 2 stop Duration:0,5180297
+29.03.2016 1:16:03  Mode 3 start
+29.03.2016 1:16:04  Mode 3 stop Duration:0,4330247
+29.03.2016 1:16:04  Mode 4 start
+29.03.2016 1:16:04  Mode 1 stop Duration:0,5270302
+29.03.2016 1:16:04  Mode 2 start
+29.03.2016 1:16:04  Mode 4 stop Duration:0,4570261
+29.03.2016 1:16:04  Mode 1 start
+29.03.2016 1:16:05  Mode 2 stop Duration:0,3770216
+29.03.2016 1:16:05  Mode 3 start
+29.03.2016 1:16:05  Mode 3 stop Duration:0,3000171
+29.03.2016 1:16:05  Mode 4 start
+29.03.2016 1:16:06  Mode 1 stop Duration:1,1570662
+29.03.2016 1:16:06  Mode 2 start
+
+Application close: 29.03.2016 1:16:07 
+//End
+
+//Eval:
+Total Duration in seconds:16
+Total Duration in minutes:0,26
+-----------------------------------------------------------------------------------------------

@@ -1,0 +1,9 @@
+c:\users\kim\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.config
+c:\users\kim\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe
+c:\users\kim\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.pdb
+c:\users\kim\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\kim\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\kim\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+c:\users\kim\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kim\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\SimpleViewer.net.MainWindow.resources
